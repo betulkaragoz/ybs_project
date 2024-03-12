@@ -22,6 +22,11 @@ After installing xampp in the c folder, add all php files to the following:
   
 ## Run It On Your Computer
 
+First of all create a React project with this command:
+
+```bash
+  npx create-react-app ybs_project
+```
 
 Install required packages
 
